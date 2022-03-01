@@ -24,7 +24,6 @@ function About() {
   )
 }
 
-
 function App() {
   return (
     <div>
